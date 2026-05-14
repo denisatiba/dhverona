@@ -1,8 +1,8 @@
 display_name,stub,dropdown_parent
-Inicio,/
-Colección,/browse.html
-Temas,/subjects.html
-Lugares,/locations.html
-Cronología,/timeline.html
-Metadatos,/data.html
-Sobre la edición,/about.html
+Home,/
+Collection,/browse.html
+Topics,/subjects.html
+Places,/locations.html
+Chonology,/timeline.html
+Metabase,/data.html
+About edition,/about.html
